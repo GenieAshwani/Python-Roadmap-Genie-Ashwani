@@ -91,12 +91,3 @@ Python can build a wide range of different data visualizations, like line and ba
 
 | [HackerRank](https://www.hackerrank.com/mrankitgupta) | [Leetcode](https://leetcode.com/mrankitgupta1/) | [Kaggle](https://www.kaggle.com/mrankitgupta) | [Codechef](https://www.codechef.com/) | [Unstop](https://unstop.com/) | [HackerEarth](https://www.hackerearth.com/practice/) | [Codeforces](https://codeforces.com/) | [Interviewbit](https://www.interviewbit.com/) | [Google Dev](https://developers.google.com/) |
 | ----------------------------------------------------- | ----------------------------------------------- | --------------------------------------------- | ------------------------------------- | ----------------------------- | ---------------------------------------------------- | ------------------------------------- | --------------------------------------------- | -------------------------------------------- |
-
-### Liked my Contributions:question:[Follow Me](https://github.com/mrankitgupta/):point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star: :sparkles:
-
-<p align="left"> <a href="https://twitter.com/MrAnkitGupta_/" target="blank"><img src="https://img.shields.io/twitter/follow/MrAnkitGupta_?logo=twitter&style=for-the-badge" alt="MrAnkitGupta_" /></a> </p>
-
-<a href="https://www.linkedin.com/in/mrankitgupta" target="blank"><img align="center" src="https://img.shields.io/badge/-MrAnkitGupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrankitgupta/" alt="MrAnkitGupta" height="20" width="100" /></a>
-<a href="https://www.instagram.com/MrAnkitGupta_" target="blank"><img align="center" src="https://img.shields.io/badge/-@MrAnkitGupta_-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/MrAnkitGupta_" alt="MrAnkitGupta_" height="20" width="110" /></a>
-<a href="https://bio.link/AnkitGupta" target="blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&link=https://bio.link/AnkitGupta" alt="AnkitGupta" height="20" width="90" /></a>
-<a href="https://github.com/mrankitgupta/" target="blank"><img align="center" src="https://img.shields.io/github/followers/mrankitgupta?label=Follow&style=social&link=https://github.com/mrankitgupta/" alt="MrAnkitGupta" height="20" width="90" /></a>
